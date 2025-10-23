@@ -1,0 +1,34 @@
+
+ Name    :  KMER LORD
+ Matricule:  SWE49TO9R
+ Level   :  400
+
+ Answer Sheet 
+ 1) B ✔
+ 2) C ❌ A
+ 3) B ❌ C
+ 4) D ✔
+ 5) C ❌ D
+ 6) A ✔
+ 7) C ❌ A
+ 8) C ✔
+ 9) D ❌ A
+ 10) A ✔
+ 11) B ❌ D
+ 12) A ✔
+ 13) A ✔
+ 14) A ❌ C
+ 15) D ✔
+ 16) C ✔
+ 17) C ✔
+ 18) A ❌ D
+ 19) B ❌ D
+ 20) C ✔
+ 21) D ❌ B
+ 22) C ❌ A
+  ----------------------------------------------------------------------
+ Total Correct: 11
+ Total Wrong: 11
+ You scored: 11 in 22
+50% - FAIR! Your performance needs considerable improvement
+*****************************************************************************
