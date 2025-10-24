@@ -12,9 +12,9 @@ class CSVHandler:
                 # Prompt user for the directory to save the file
                 exam_result = input("Enter the directory where you want to save the CSV result file: ").strip()
 
-                # Validate the directory
+                # Validate the directory and create one if it does not exist
                 if not os.path.exists(exam_result):
-                    os.makedirs(exam_result)  # Create the directory if it doesn't exist
+                    os.makedirs(exam_result)  
 
                 # Create the CSV file path
                 csv_file_path = os.path.join(exam_result, "student_results.csv")
@@ -25,7 +25,7 @@ class CSVHandler:
                     # Write the headers
                     writer.writerow(["No", "Name", "Student ID", "Total Score"])
                     # Write the data
-                    for index, result in enumerate(sorted(results, key=lambda x: x["name"]), start=1):  # Sort alphabetically by name
+                    for index, result in enumerate(sorted(results, key=lambda x: x["name"]), start=1):  
                         writer.writerow([index, result["name"], result["student_ID"], result["score"]])
 
                 print(f"Exam results successfully saved to: {csv_file_path}")

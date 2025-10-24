@@ -1,8 +1,13 @@
+
+---
+
 # 🧠 Exam Grader
 
 A modular Python-based MCQ exam grading system designed to **automate the marking of student answer sheets** without the need for expensive OCR scanners or specialized OMR papers.
 
 This tool reads **scanned or text-based exam submissions**, compares them to an uploaded **answer key**, generates **marked scripts**, displays results neatly in a **table**, and exports them to **CSV** for easy analysis or upload to school portals.
+
+---
 
 ## 🚀 Vision
 
@@ -17,6 +22,8 @@ Students can simply write their answers on standard paper, examiners scan them w
 * Produces a full CSV report of all results for easy upload and sharing.
 
 This approach **reduces cost**, **improves accessibility**, and **simplifies large-scale grading**—making digital assessment available to every institution.
+
+---
 
 ## 🧩 Features
 
@@ -53,7 +60,7 @@ exam-grader/
 
    ```
    Name: John Doe
-   ID: 12345
+   Matricule: SWE90ITY
    1) A
    2) C
    3) B
@@ -63,7 +70,7 @@ exam-grader/
 2. Prepare an **answer sheet** `.txt` file in this format:
 
    ```
-   Instructions: Choose the correct answers.
+   Answers.
    1) A
    2) B
    3) C
@@ -72,7 +79,9 @@ exam-grader/
 
 3. Run the main script:
 
+   ```bash
    python main.py
+   ```
 
 4. Follow the prompts to:
 
@@ -80,14 +89,16 @@ exam-grader/
    * Choose the answer sheet file.
    * View your grading report and export the results.
 
+---
+
 ## ⚙️ Installation
 
 Clone this repository and install the dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/exam-grader.git
-cd exam-grader
+git clone https://github.com/Ivelandry1010/smart_mark.git
 pip install -r requirements.txt
+cd exam-grader
 ```
 
 Then simply run:
@@ -96,6 +107,8 @@ Then simply run:
 python main.py
 ```
 
+---
+
 ## 🧠 Future Enhancements
 
 * 📝 **AI Handwriting Recognition** using TensorFlow or OpenCV to extract answers from scanned handwritten sheets.
@@ -103,6 +116,7 @@ python main.py
 * 🌐 **Web-based dashboard** for result management and sharing.
 * 💬 **Multi-language support** for international schools.
 
+---
 
 ## 🤝 Contributing
 
@@ -127,17 +141,29 @@ If you’d like to improve **Exam Grader**, add AI capabilities, or integrate wi
    ```
 5. Submit a pull request 🎉
 
+---
+
 ## 📬 Collaboration & Contact
 
-I’m always open to collaborations, feedback, or partnerships to take this system further — especially in the area of **AI-powered education technology**. You can as well reach out by visiting my portfolio to get my other social handles
+I’m always open to collaborations, feedback, or partnerships to take this system further — especially in the area of **AI-powered education technology**.
 
-📧 **Email:** sicoindentifcation@gmail.com
-🌐 **Portfolio:** ---
-🐙 **Phone:** +237 686 381 866
+* **Email:**  [sicoidentifcation@gmail.com](mailto:sicoidentifcation@gmail.com)
+* **Portfolio:** [loading](#)
+* **GitHub:** [@ivelandry1010](https://github.com/Ivelandry1010)
+* **WhatsApp:** [+237 686381866](https://wa.me/237686381866?text=Hello%20I%20found%20you%20through%20your%20portfolio)
+* **Instagram:** [@sico_lm10](https://www.instagram.com/sico_lm10?igsh=cHdqYmp5enZwYjBy&utm_source=qr)
+
+
+---
 
 ## 📜 License
 
 This project is released under the **MIT License** — feel free to use, modify, and distribute it with attribution.
 
+---
+
 ### ✨ *“Empowering accessible education through intelligent grading systems.”*
+
+---
+
 
