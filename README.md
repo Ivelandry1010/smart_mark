@@ -129,11 +129,11 @@ If you’d like to improve **Exam Grader**, add AI capabilities, or integrate wi
 
 ## 📬 Collaboration & Contact
 
-I’m always open to collaborations, feedback, or partnerships to take this system further — especially in the area of **AI-powered education technology**.
+I’m always open to collaborations, feedback, or partnerships to take this system further — especially in the area of **AI-powered education technology**. You can as well reach out by visiting my portfolio to get my other social handles
 
 📧 **Email:** sicoindentifcation@gmail.com
 🌐 **Portfolio:** ---
-🐙 **Phone:** 671997222
+🐙 **Phone:** +237 686 381 866
 
 ## 📜 License
 
